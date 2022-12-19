@@ -11,7 +11,7 @@ To use this project, you need to have Node.js and npm installed on your machine.
 1. Clone the repository:
 
 ```bash
-git clone https://gitlab.com/jirapat-su/node.js-express-typescript
+git clone https://github.com/Lock-Lee/Node.js-Express-Typescript-build-to-.exe.git
 ```
 
 2. Navigate to the project directory:
